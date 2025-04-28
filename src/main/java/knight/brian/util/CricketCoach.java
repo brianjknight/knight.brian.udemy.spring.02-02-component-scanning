@@ -1,4 +1,4 @@
-package knight.brian.springcoredemo;
+package knight.brian.util;
 
 import org.springframework.stereotype.Component;
 
